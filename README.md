@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast wit
 ## 💼 Additional Skills
 
 ### **Productivity Tools**
-- 🖥️ **Microsoft Office Suite**: Advanced Excel, Word, PowerPoint, MS Acces
+- 🖥️ **Microsoft Office Suite**: Advanced Excel, Word, PowerPoint, MS Access, Ms Outlook
 
 ### **Accounting Knowledge**
 - 📊 Skilled in financial analysis, data interpretation, and leveraging accounting tools for accurate reporting.
@@ -42,4 +42,4 @@ Feel free to explore my repositories and projects, and don't hesitate to reach o
 
 ---
 
-Thanks for stopping by! 😊
+Have a great day!!! 😊
