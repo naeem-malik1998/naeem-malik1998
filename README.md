@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate _**Full Stack Web Developer**_ an
 🌟 I love building impactful applications, solving challenging problems, and continuously learning new technologies. My expertise covers:
 
 ### **Programming Languages**
-- 🌐 **Web Development**: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript
+- 🌐 **Web Development**: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript
 - ⚙️ **Backend**: Node.js, Express.js
 - 💻 **Other Languages**: Python, C, C++, Java, SQL
 
