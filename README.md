@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Naeem Malik
 
-Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast with a diverse set of skills spanning programming, web development, accounting, and productivity tools.
+Welcome to my GitHub profile! I'm a passionate _**Full Stack Web Developer**_ and tech enthusiast with a diverse set of skills spanning programming, web development, accounting, and productivity tools.
 
 ---
 
@@ -9,10 +9,9 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast wit
 🌟 I love building impactful applications, solving challenging problems, and continuously learning new technologies. My expertise covers:
 
 ### **Programming Languages**
-- 🌐 **Web Development**: HTML, CSS, JavaScript
+- 🌐 **Web Development**: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript
 - ⚙️ **Backend**: Node.js, Express.js
 - 💻 **Other Languages**: Python, C, C++, Java, SQL
-- ⚙️  **Databases**: PostgreSQL, MySQL, MongoDB, SQLite
 
 ### **Frontend Frameworks**
 - ⚛️ **React.js**
@@ -20,6 +19,9 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast wit
 ### **Backend & Server-Side Technologies**
 - 🌐 **Node.js & Express.js**
 
+### **Databases**
+- 🛢️ **Relational Databases**: PostgreSQL, MySQL
+- 🗃️ **NoSQL Databases**: MongoDB
 ---
 
 ## 💼 Additional Skills
